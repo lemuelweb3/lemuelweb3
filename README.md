@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br><br>My name is Solomon Sauls. <br><br>I'm a Sales Engineer (studied electrical engineering) turned Creative Developer with a passion and focus for frontend development, augmented reality, Web3, Animation, 3d, virtual reality.</h2>
+<h2 align="left">Hi 👋! <br><br>My name is Solomon Sauls. <br><br>Sales Engineer (studied electrical engineering) turned Creative Developer with a passion and focus for frontend development, augmented reality, Web3, Animation, 3d, virtual reality.</h2>
 
 ###
 
