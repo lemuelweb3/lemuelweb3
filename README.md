@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br><br>My name is Solomon Sauls. <br><br>Sales Engineer (studied electrical engineering) turned Creative web3 developer #softwaredeveloper #softwareengineer.</h2>
+<h2 align="left">Hi 👋! <br><br>My name is Lemuel. <br><br>Sales Engineer (studied electrical engineering) turned Web3 developer #softwaredeveloper #softwareengineer. Dedicated to building beautiful and useful Dapps.</h2>
 
 ###
 
