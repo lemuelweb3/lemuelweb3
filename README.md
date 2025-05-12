@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br><br>My name is Lemuel. <br><br>Sales Specialist (studied electrical engineering) turned Product designer and Web3 developer #productdesigner #softwaredeveloper #softwareengineer #webdesigner. Dedicated to building beautiful and useful apps.</h2>
+<h2 align="left">Hi 👋! <br><br>My name is Lemuel. <br><br>Sales Specialist (studied electrical engineering) turned Blockchain developer #blockchaindeveloper #softwaredeveloper #softwareengineer #webdesigner.</h2>
 
 ###
 
