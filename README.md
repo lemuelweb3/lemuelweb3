@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br><br>My name is Lemuel. <br><br>Sales Specialist (studied electrical engineering) turned Blockchain developer #blockchaindeveloper #softwaredeveloper #softwareengineer #webdesigner.</h2>
+<h2 align="left">Hi 👋! <br><br>My name is Lemuel. <br><br>I am a blockchain developer #blockchaindeveloper #softwaredeveloper #softwareengineer #webdesigner.</h2>
 
 ###
 
